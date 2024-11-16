@@ -18,7 +18,7 @@ fun HomeScreen() {
         .background(Color.Red),
         contentAlignment = Alignment.Center) {
         Text(text = "Home Screen",
-            color = Color.White
+            color = Color.Black
         )
     }
 }
